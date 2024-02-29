@@ -131,11 +131,11 @@ function Footer() {
                 <p className="copyright-text">
                   Copyright © 2023 Redesign & Redeveloped by
                   <a
-                    href="https://github.com/piyush-agrawal6"
+                    href="https://github.com/iadarshmishra"
                     className="text-secondary"
                     target="_blank"
                   >
-                    Piyush Agrawal
+                    Adarsh Mishra
                   </a>
                 </p>
               </div>
